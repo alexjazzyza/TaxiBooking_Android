@@ -1,0 +1,14 @@
+package fr.jazzyza.taxibooking.navigation
+
+enum class ETaxiBookingScreens {
+    SPLASH_SCREEN,
+    SPLASH_SCREEN_LOGIN,
+    SIGNUP_PHONE_SCREEN,
+    SIGNUP_PASSWORD_SCREEN,
+    SIGNUP_EMAIL_SCREEN,
+    SIGNUP_NAME_SCREEN,
+    SIGNUP_DONE_SCREEN,
+    SIGNIN_SCREEN,
+    MAIN_SCREEN,
+    MENU_SCREEN
+}
